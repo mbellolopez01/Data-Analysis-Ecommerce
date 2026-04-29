@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on the large-scale analysis of user behavior and sales performance for an e-commerce platform. By processing over 12 million event logs, the project identifies high-value brands, peak purchase hours, and conversion funnel bottlenecks to optimize marketing ROI and inventory management.
+This project involved the end-to-end processing and analysis of a massive dataset containing over 12 million raw event records from a multi-category e-commerce platform. The primary goal was to architect a data pipeline capable of transforming millions of individual user interactions (views, cart additions, and purchases) into actionable business intelligence to identify conversion bottlenecks and brand performance.
 
 ## 🛠️ Tech Stack
 
